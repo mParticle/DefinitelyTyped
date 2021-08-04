@@ -147,7 +147,6 @@ instance.logBaseEvent(
     eventOptions
 );
 
-
 instance.logError('Login Failed', customAttrs);
 instance.logError(
     {

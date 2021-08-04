@@ -50,7 +50,7 @@ export interface SDKEventCustomFlags {
 }
 
 export interface SDKEventOptions {
-    shouldUploadEvent: boolean
+    shouldUploadEvent: boolean;
 }
 
 export interface DataPlanConfig {
