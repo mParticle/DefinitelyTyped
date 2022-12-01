@@ -388,10 +388,10 @@ mParticle.eCommerce.logProductAction(
     eCommerceCustomFlags,
 );
 
-mParticle.eCommerce.logProductAction(300, [product1, product2], eCommerceCustomAttributes, eCommerceCustomFlags);
+mParticle.eCommerce.logProductAction(3, [product1, product2], eCommerceCustomAttributes, eCommerceCustomFlags);
 
 mParticle.eCommerce.logProductAction(
-    300,
+    3,
     [product1, product2],
     eCommerceCustomAttributes,
     eCommerceCustomFlags,
