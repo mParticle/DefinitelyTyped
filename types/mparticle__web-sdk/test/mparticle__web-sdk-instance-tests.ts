@@ -127,6 +127,8 @@ instance.getAppVersion();
 
 instance.getDeviceId();
 
+instance.getEnvironment();
+
 instance.getVersion();
 
 instance.init('apiKey', config);
